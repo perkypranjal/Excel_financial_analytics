@@ -21,3 +21,9 @@ P&L BY FISCAL YEARS
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.2.jpg)
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.3.jpg)
 
+P&L BY MONTHS 
+![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%204.1.jpg)
+![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%204.2.jpg)
+
+
+
