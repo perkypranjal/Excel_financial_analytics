@@ -10,5 +10,5 @@ DATA MODEL
 ![Data model business insights](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Data%20model%20business%20insights.png)
 
 CUSTOMER NET SALES PERFORMANCE REPORT
-![
+![customer net sales performance](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/customer%20net%20sales%20performance.pdf)
 
