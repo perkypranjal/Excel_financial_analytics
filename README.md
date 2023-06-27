@@ -8,3 +8,6 @@ In this project I created 4 Financial Reports for hypothetical comapny called At
 
 DATA MODEL 
 ![Data model business insights](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Data%20model%20business%20insights.png)
+
+CUSTOMER NET SALES PERFORMANCE REPORT 
+
