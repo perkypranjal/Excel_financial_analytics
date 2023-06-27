@@ -11,5 +11,5 @@ DATA MODEL
 
 CUSTOMER NET SALES PERFORMANCE REPORT
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%201.jpg)
-1[Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%201.1.jpg)
+![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%201.1.jpg)
 
