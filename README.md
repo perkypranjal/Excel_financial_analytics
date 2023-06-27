@@ -16,3 +16,8 @@ CUSTOMER NET SALES PERFORMANCE REPORT
 MARKET PERFORMANCE VS TARGET
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%202.jpg)
 
+P&L BY FISCAL YEARS 
+![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.jpg)
+![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.2.jpg)
+![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.3.jpg)
+
