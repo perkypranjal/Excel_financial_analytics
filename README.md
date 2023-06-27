@@ -13,15 +13,15 @@ CUSTOMER NET SALES PERFORMANCE REPORT
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%201.jpg)
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%201.1.jpg)
 
-MARKET PERFORMANCE VS TARGET
+MARKET PERFORMANCE VS TARGET REPORT
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%202.jpg)
 
-P&L BY FISCAL YEARS 
+P&L BY FISCAL YEARS REPORT
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.jpg)
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.2.jpg)
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%203.3.jpg)
 
-P&L BY MONTHS 
+P&L BY MONTHS REPORT
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%204.1.jpg)
 ![Reports](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Business%20report%204.2.jpg)
 
