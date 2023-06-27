@@ -7,4 +7,4 @@ In this project I created 4 Financial Reports for hypothetical comapny called At
 4. P&L by Months
 
 DATA MODEL 
-![Data model business insights]https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Data%20model%20business%20insights.png
+![Data model business insights](https://github.com/perkypranjal/Excel_financial_analytics/blob/main/Resources/Data%20model%20business%20insights.png)
